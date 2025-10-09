@@ -26,7 +26,7 @@ My work revolves around building impactful, user-centric web apps using the **ME
 
 - 💼 Ex-SwE intern at Yhills (2025 Batch)  
 - 🛠 Currently building: [CreatorTunes 🎧](https://regal-naiad-ac5dda.netlify.app/)  
-- 🌐 Portfolio: [sanika-portfolio](https://66b201cbf46ccdd696aeb438--rad-sundae-ba68e3.netlify.app)  
+- 🌐 Portfolio: [sanika-portfolio](https://glowing-pegasus-7d28d4.netlify.app/)  
 - 📍 Based in Pune, India | Open to remote work & freelance opportunities  
 
 ---
